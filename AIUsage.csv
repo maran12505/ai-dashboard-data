@@ -1,4 +1,34 @@
 Department,Tool,UsedHours,SavedHours,Performance
 Content Pilot,ChatGPT,40,20,60
+Content Pilot,Copilot,25,15,55
+Content Pilot,JasperAI,15,10,50
+Content Pilot,CanvaAI,10,5,45
+
 Common Core,Copilot,50,10,70
+Common Core,ChatGPT,35,15,65
+Common Core,NotionAI,20,8,60
+Common Core,GrammarlyAI,15,6,55
+
 SQL / DBMS,ChatGPT,25,15,65
+SQL / DBMS,CodeWhisperer,20,10,60
+SQL / DBMS,Copilot,15,5,58
+
+Design Team,Midjourney,30,10,70
+Design Team,DALL-E,25,8,68
+Design Team,CanvaAI,20,7,65
+Design Team,Firefly,15,6,60
+
+Marketing,ChatGPT,40,20,72
+Marketing,JasperAI,35,15,70
+Marketing,CopyAI,30,10,68
+Marketing,GrammarlyAI,20,8,65
+Marketing,PictoryAI,15,5,60
+
+QA Team,TestGPT,45,20,75
+QA Team,Copilot,25,10,65
+QA Team,ChatGPT,20,10,63
+
+HR & Admin,ChatGPT,30,15,65
+HR & Admin,NotionAI,25,10,60
+HR & Admin,FirefliesAI,20,8,58
+HR & Admin,OtterAI,15,6,55
